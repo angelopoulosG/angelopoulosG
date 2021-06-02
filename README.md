@@ -4,14 +4,6 @@ Army General Staff.
 
 His research interests include cloud robotics, cyber-physical systems, human-robot interaction, and robot ethics.
 
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelopoulosG&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-
-
-
 <a href="https://www.researchgate.net/profile/Georgios-Angelopoulos" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Georgios Angelopoulos | Reseach Gate" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/researchgate.svg" />
 </a>
@@ -22,7 +14,14 @@ His research interests include cloud robotics, cyber-physical systems, human-rob
   <img align="left" alt="Georgios Angelopoulos | LinkdeIN" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/linkedin.svg" />
 </a>
 
+<br>
+<br>
 
+<p align="center"> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelopoulosG&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
 
 
 
@@ -32,4 +31,8 @@ His research interests include cloud robotics, cyber-physical systems, human-rob
   <img align="left" alt="Alex Stergiou | Google scholar" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/googlescholar.svg" />
 </a>
 
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 -->
