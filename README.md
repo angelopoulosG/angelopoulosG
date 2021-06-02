@@ -17,7 +17,7 @@ Georgios Angelopoulos was born in Athens, Greece, in 1994. He received the Diplo
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelopoulosG&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/VbAFrrDVGAvZu/giphy.webp" width="450" height="320" />
   
 <!--
 **angelopoulosG/angelopoulosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
