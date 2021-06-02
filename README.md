@@ -1,4 +1,4 @@
-`Georgios Angelopoulos`
+### `Georgios Angelopoulos`
 was born in Athens, Greece, in 1994. He received the Diploma degree (5 years) in Informatics and Telecommunications Engineering from the <a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece</a>, in 2019. Also, in 2020, he completed the MRes degree with the <a href="http://upf.edu/">Universitat Pompeu Fabra, Spain</a>. credits. He is currently fulfilling his military obligations in the Greek Army, serving as a Software Engineer in the Hellenic
 Army General Staff.
 
