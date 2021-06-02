@@ -9,25 +9,27 @@ His research interests include cloud robotics, cyber-physical systems, human-rob
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelopoulosG&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-<a href="https://twitter.com/GeorgeAngelop">
-  
-  
-  <img align="left" alt="Georgios Angelopoulos | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
+
+
+<a href="https://www.researchgate.net/profile/Georgios-Angelopoulos" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Georgios Angelopoulos | Reseach Gate" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/researchgate.svg" />
 </a>
-<a href="https://www.linkedin.com/in/george-angelopoulos/">
-  <img align="left" alt="Georgios Angelopoulos  | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://orcid.org/0000-0001-9866-8719" target="_blank" rel="noopener noreferrer" >
+  <img align="left" alt="Georgios Angelopoulos | Orcid" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/orcid.svg" />
 </a>
+<a href="https://www.linkedin.com/in/george-angelopoulos/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Georgios Angelopoulos | LinkdeIN" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/linkedin.svg" />
+</a>
+
+
+
+
+
 <!--
-**angelopoulosG/angelopoulosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://scholar.google.co.uk/citations?user=_E_Zs3kAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Alex Stergiou | Google scholar" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/googlescholar.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
