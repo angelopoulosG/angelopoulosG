@@ -17,15 +17,18 @@ His research interests include cloud robotics, cyber-physical systems, human-rob
 <br>
 <br>
 
+
+
+
+<!--
+
+
 <p align="center"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelopoulosG&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
-
-
-<!--
 
 <a href="https://scholar.google.co.uk/citations?user=_E_Zs3kAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Alex Stergiou | Google scholar" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/googlescholar.svg" />
