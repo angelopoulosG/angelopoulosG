@@ -1,5 +1,5 @@
 ### `Georgios Angelopoulos`
-was born in Athens, Greece, in 1994. He received the Diploma degree (5 years) in Informatics and Telecommunications Engineering from the <a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece</a>, in 2019. Also, in 2020, he completed the MRes degree with the <a href="http://upf.edu/">Universitat Pompeu Fabra, Spain</a>. He is currently a Marie Curie Early Stage Researcher at the University of Naples Federico II.
+was born in Athens, Greece, in 1994. He received the Diploma degree (5 years) in Informatics and Telecommunications Engineering from the <a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece</a>, in 2019. Also, in 2020, he completed the MRes degree with the <a href="http://upf.edu/">Universitat Pompeu Fabra, Spain</a>. He is currently a Marie Curie Early Stage Researcher at the <a href="http://www.unina.it/en_GB/home">University of Naples Federico II</a>.
 
 His research interests include cloud robotics, cyber-physical systems, human-robot interaction, and robot ethics.
 
