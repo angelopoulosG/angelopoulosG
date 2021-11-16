@@ -1,7 +1,7 @@
 ### `Georgios Angelopoulos`
 was born in Athens, Greece, in 1994. He received the Diploma degree (5 years) in Informatics and Telecommunications Engineering from the <a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece</a>, in 2019. During his studies, he founded the multi-awarded, <a href="https://robotics.uowm.gr/">Hyperion Robotics team</a>, the official robotics team of the University, and participated twice in World Robot Olympiad, both in Qatar and India, in 2015, and 2016 respectively. In the summer of 2017, Georgios finished his internship at the CTTC research center in Spain as a developer of the <a href="http://www.cttc.es/iotworld-testbed-new-website-and-app/">IoT World project</a>. Furthermore, in 2020, he completed the Master's degree in Intelligent and Interactive Systems with the <a href="http://upf.edu/">Universitat Pompeu Fabra, Spain</a>.
 
-Georgios is currently a PhD student at the <a href="http://www.unina.it/en_GB/home">University of Naples Federico II</a>, and his main goal is to investigate the role of dynamical properties of the body movements as well as non-verbal cues in making the robot motion and interaction behavior legible as much as possible.
+Georgios is currently a PhD student at the <a href="http://www.unina.it/en_GB/home">University of Naples Federico II</a> and an Early Stage Researcher at the <a href="http://www.perseo.eu/">PERSEO</a> project , and his main goal is to investigate the role of dynamical properties of the body movements as well as non-verbal cues in making the robot motion and interaction behavior legible as much as possible.
 
 
 
